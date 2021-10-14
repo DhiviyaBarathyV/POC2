@@ -1,0 +1,12 @@
+T1	CSK	Rakesh	
+T2	MI	Kamal	
+T3	RCB	Ranjith	
+T1	CSK	Vijay	
+T2	MI	Prasanna	
+T3	RCB	Rajesh	
+T1	CSK	Raj	
+T2	MI	Vivek	
+T3	RCB	Kuloth	
+T1	CSK	Arun	
+T2	MI	Ajay	
+T3	RCB	Kishore
