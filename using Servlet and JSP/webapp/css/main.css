@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+body{
+	background:url(http://localhost:8000/POC2/gallary/wallpapers.jpg);
+	margin:0;
+	padding:0;
+	background-size:cover;
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+.head{
+	margin-top:50px;
+	color: white;
+	text-align:center;
+	font-size: 60px;
+	margin-bottom:50px;	
+}
+button[type=submit] {
+	padding: 14px 20px;
+	width: 50%;
+	cursor: pointer;
+	font-size: 20px;
+	color: white;
+	border-radius: 4px;
+	 border: none;
+	 background-color:black;
+	  border: 2px solid white;
+	  margin-left:350px;
+	  margin-bottom:50px;
+}
+button[type=submit]:hover {
+  background-color: transparent;
+}
