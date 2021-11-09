@@ -1,0 +1,3 @@
+configures\Config.class
+configures\MyServletInitializer.class
+controllers\Test.class
