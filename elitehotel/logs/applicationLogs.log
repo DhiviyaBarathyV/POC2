@@ -1,0 +1,367 @@
+[localhost-startStop-1] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+[localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 5.4.1.Final
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via user class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via TCCL
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - No META-INF/validation.xml found. Using annotation based configuration only.
+[http-nio-8000-exec-2] INFO  controllers.RegistrationController  - going to main page
+[http-nio-8000-exec-3] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - userKaviya is logging in
+[http-nio-8000-exec-6] INFO  controllers.LoginController  - KaviyaEntering Welcome page
+[http-nio-8000-exec-6] INFO  controllers.RegistrationController  - Kaviyasent for validation
+[http-nio-8000-exec-10] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-1] INFO  controllers.RegistrationController  - going to register page
+[http-nio-8000-exec-6] INFO  controllers.RegistrationController  - Processing the data to db
+[http-nio-8000-exec-6] INFO  controllers.RegistrationController  - PreethiAdmin succesfully registered
+[http-nio-8000-exec-7] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-7] INFO  controllers.LoginController  - adminPreethi.dhiviyaelite logging in
+[localhost-startStop-1] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+[localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 5.4.1.Final
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via user class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via TCCL
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - No META-INF/validation.xml found. Using annotation based configuration only.
+[http-nio-8000-exec-2] INFO  controllers.RegistrationController  - going to main page
+[http-nio-8000-exec-3] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-5] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-5] INFO  controllers.LoginController  - userkaviya is logging in
+[http-nio-8000-exec-6] INFO  controllers.LoginController  - kaviyaEntering Welcome page
+[http-nio-8000-exec-6] INFO  controllers.RegistrationController  - kaviyasent for validation
+[localhost-startStop-1] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+[localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 5.4.1.Final
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via user class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via TCCL
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - No META-INF/validation.xml found. Using annotation based configuration only.
+[http-nio-8000-exec-2] INFO  controllers.RegistrationController  - going to main page
+[http-nio-8000-exec-3] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - userKaviya is logging in
+[http-nio-8000-exec-6] INFO  controllers.LoginController  - KaviyaEntering Welcome page
+[http-nio-8000-exec-6] INFO  controllers.RegistrationController  - Kaviyasent for validation
+[http-nio-8000-exec-7] INFO  controllers.LoginController  - Kaviya to view bill amount
+[localhost-startStop-1] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+[localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 5.4.1.Final
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via user class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via TCCL
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - No META-INF/validation.xml found. Using annotation based configuration only.
+[http-nio-8000-exec-2] INFO  controllers.RegistrationController  - going to main page
+[http-nio-8000-exec-3] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - userKaviya is logging in
+[http-nio-8000-exec-6] INFO  controllers.LoginController  - KaviyaEntering Welcome page
+[http-nio-8000-exec-6] INFO  controllers.RegistrationController  - Kaviyasent for validation
+[http-nio-8000-exec-7] INFO  controllers.LoginController  - Kaviya to view bill amount
+[http-nio-8000-exec-8] INFO  controllers.LoginController  - Kaviya to view bill amount
+[localhost-startStop-1] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+[localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 5.4.1.Final
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via user class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via TCCL
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - No META-INF/validation.xml found. Using annotation based configuration only.
+[http-nio-8000-exec-2] INFO  controllers.RegistrationController  - going to main page
+[http-nio-8000-exec-3] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - userKaviya is logging in
+[http-nio-8000-exec-5] INFO  controllers.LoginController  - KaviyaEntering Welcome page
+[http-nio-8000-exec-5] INFO  controllers.RegistrationController  - Kaviyasent for validation
+[http-nio-8000-exec-6] INFO  controllers.LoginController  - Kaviya to view bill amount
+[http-nio-8000-exec-8] INFO  controllers.LoginController  - Kaviya to view bill amount
+[localhost-startStop-1] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+[localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 5.4.1.Final
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via user class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via TCCL
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - No META-INF/validation.xml found. Using annotation based configuration only.
+[http-nio-8000-exec-2] INFO  controllers.RegistrationController  - going to main page
+[http-nio-8000-exec-3] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-5] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-5] INFO  controllers.LoginController  - userKaviya is logging in
+[http-nio-8000-exec-6] INFO  controllers.LoginController  - KaviyaEntering Welcome page
+[http-nio-8000-exec-6] INFO  controllers.RegistrationController  - Kaviyasent for validation
+[http-nio-8000-exec-7] INFO  controllers.LoginController  - Kaviya to view bill amount
+[localhost-startStop-1] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+[localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 5.4.1.Final
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via user class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via TCCL
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - No META-INF/validation.xml found. Using annotation based configuration only.
+[http-nio-8000-exec-2] INFO  controllers.RegistrationController  - going to main page
+[http-nio-8000-exec-3] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - userKaviya is logging in
+[http-nio-8000-exec-5] INFO  controllers.LoginController  - KaviyaEntering Welcome page
+[http-nio-8000-exec-5] INFO  controllers.RegistrationController  - Kaviyasent for validation
+[http-nio-8000-exec-7] INFO  controllers.LoginController  - Kaviya to view bill amount
+[http-nio-8000-exec-9] INFO  controllers.LoginController  - Kaviya to view bill amount
+[http-nio-8000-exec-10] INFO  controllers.LoginController  - Kaviya to view bill amount
+[http-nio-8000-exec-1] INFO  controllers.LoginController  - Kaviya to view bill amount
+[http-nio-8000-exec-2] INFO  controllers.LoginController  - Kaviya to view bill amount
+[localhost-startStop-1] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+[localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 5.4.1.Final
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via user class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via TCCL
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - No META-INF/validation.xml found. Using annotation based configuration only.
+[http-nio-8000-exec-2] INFO  controllers.RegistrationController  - going to main page
+[http-nio-8000-exec-3] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - userKaviya is logging in
+[http-nio-8000-exec-5] INFO  controllers.LoginController  - KaviyaEntering Welcome page
+[http-nio-8000-exec-5] INFO  controllers.RegistrationController  - Kaviyasent for validation
+[http-nio-8000-exec-6] INFO  controllers.LoginController  - Kaviya to view bill amount
+[http-nio-8000-exec-10] INFO  controllers.LoginController  - Kaviya to view bill amount
+[http-nio-8000-exec-1] INFO  controllers.LoginController  - KaviyaEntering Welcome page
+[http-nio-8000-exec-1] INFO  controllers.RegistrationController  - Kaviyasent for validation
+[http-nio-8000-exec-2] INFO  controllers.LoginController  - Kaviya to view bill amount
+[http-nio-8000-exec-5] INFO  controllers.LoginController  - Kaviya to view bill amount
+[http-nio-8000-exec-7] INFO  controllers.LoginController  - KaviyaEntering Welcome page
+[http-nio-8000-exec-7] INFO  controllers.RegistrationController  - Kaviyasent for validation
+[http-nio-8000-exec-8] INFO  controllers.LoginController  - Kaviya to view bill amount
+[http-nio-8000-exec-10] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-2] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-2] INFO  controllers.LoginController  - userDhiviya is logging in
+[http-nio-8000-exec-3] INFO  controllers.LoginController  - DhiviyaEntering Welcome page
+[http-nio-8000-exec-3] INFO  controllers.RegistrationController  - Dhiviyasent for validation
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - Dhiviya to view bill amount
+[http-nio-8000-exec-8] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-10] INFO  controllers.LoginController  - null to view bill amount
+[http-nio-8000-exec-2] INFO  controllers.LoginController  - Entering login page
+[localhost-startStop-1] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+[localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 5.4.1.Final
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via user class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via TCCL
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - No META-INF/validation.xml found. Using annotation based configuration only.
+[http-nio-8000-exec-2] INFO  controllers.RegistrationController  - going to main page
+[http-nio-8000-exec-3] INFO  controllers.RegistrationController  - going to register page
+[http-nio-8000-exec-7] INFO  controllers.RegistrationController  - Processing the data to db
+[http-nio-8000-exec-7] INFO  controllers.RegistrationController  - Dhiviyauser succesfully registered
+[http-nio-8000-exec-9] INFO  controllers.RegistrationController  - Processing the data to db
+[http-nio-8000-exec-10] INFO  controllers.RegistrationController  - going to register page
+[http-nio-8000-exec-3] INFO  controllers.RegistrationController  - Processing the data to db
+[http-nio-8000-exec-3] INFO  controllers.RegistrationController  - Dhiviyauser succesfully registered
+[http-nio-8000-exec-8] INFO  controllers.RegistrationController  - going to main page
+[http-nio-8000-exec-9] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-10] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-10] INFO  controllers.LoginController  - userDhiviya is logging in
+[http-nio-8000-exec-2] INFO  controllers.LoginController  - DhiviyaEntering Welcome page
+[http-nio-8000-exec-2] INFO  controllers.RegistrationController  - Dhiviyasent for validation
+[http-nio-8000-exec-3] INFO  controllers.LoginController  - Dhiviya to view bill amount
+[http-nio-8000-exec-5] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-7] INFO  controllers.RegistrationController  - going to register page
+[http-nio-8000-exec-10] INFO  controllers.RegistrationController  - Processing the data to db
+[http-nio-8000-exec-10] INFO  controllers.RegistrationController  - ArunAdmin succesfully registered
+[http-nio-8000-exec-3] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-3] INFO  controllers.LoginController  - adminArun.dhiviyaelite logging in
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-5] INFO  controllers.RegistrationController  - going to main page
+[http-nio-8000-exec-6] INFO  controllers.RegistrationController  - going to main page
+[http-nio-8000-exec-8] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-1] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-1] INFO  controllers.LoginController  - adminArun.dhiviyaelite logging in
+[http-nio-8000-exec-2] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-5] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-5] INFO  controllers.LoginController  - userSujatha is logging in
+[http-nio-8000-exec-6] INFO  controllers.LoginController  - SujathaEntering Welcome page
+[http-nio-8000-exec-6] INFO  controllers.RegistrationController  - Sujathasent for validation
+[http-nio-8000-exec-8] INFO  controllers.LoginController  - SujathaEntering Welcome page
+[http-nio-8000-exec-8] INFO  controllers.RegistrationController  - Sujathasent for validation
+[http-nio-8000-exec-3] INFO  controllers.LoginController  - Sujathabooked room successfully
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - SujathaEntering Welcome page
+[http-nio-8000-exec-4] INFO  controllers.RegistrationController  - Sujathasent for validation
+[http-nio-8000-exec-5] INFO  controllers.LoginController  - Sujatha to view bill amount
+[http-nio-8000-exec-8] INFO  controllers.LoginController  - Entering login page
+[localhost-startStop-1] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+[localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 5.4.1.Final
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via user class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via TCCL
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - No META-INF/validation.xml found. Using annotation based configuration only.
+[http-nio-8000-exec-2] INFO  controllers.RegistrationController  - going to main page
+[http-nio-8000-exec-3] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-7] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-7] INFO  controllers.LoginController  - userDhiviya is logging in
+[http-nio-8000-exec-10] INFO  controllers.LoginController  - DhiviyaEntering Welcome page
+[http-nio-8000-exec-10] INFO  controllers.RegistrationController  - Dhiviyasent for validation
+[http-nio-8000-exec-1] INFO  controllers.LoginController  - Dhiviya to view bill amount
+[http-nio-8000-exec-3] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-5] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-5] INFO  controllers.LoginController  - adminArun.dhiviyaelite logging in
+[http-nio-8000-exec-8] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-9] INFO  controllers.RegistrationController  - going to register page
+[http-nio-8000-exec-2] INFO  controllers.RegistrationController  - going to register page
+[http-nio-8000-exec-3] INFO  controllers.RegistrationController  - going to register page
+[http-nio-8000-exec-4] INFO  controllers.RegistrationController  - going to register page
+[http-nio-8000-exec-5] INFO  controllers.RegistrationController  - going to register page
+[http-nio-8000-exec-7] INFO  controllers.RegistrationController  - going to register page
+[localhost-startStop-1] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+[localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 5.4.1.Final
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via user class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via TCCL
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - No META-INF/validation.xml found. Using annotation based configuration only.
+[http-nio-8000-exec-2] INFO  controllers.RegistrationController  - going to main page
+[http-nio-8000-exec-3] INFO  controllers.RegistrationController  - going to register page
+[http-nio-8000-exec-4] INFO  controllers.RegistrationController  - going to register page
+[http-nio-8000-exec-5] INFO  controllers.RegistrationController  - going to register page
+[http-nio-8000-exec-6] INFO  controllers.RegistrationController  - going to register page
+[ContainerBackgroundProcessor[StandardEngine[Catalina]]] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+[ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 5.4.1.Final
+[ContainerBackgroundProcessor[StandardEngine[Catalina]]] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+[ContainerBackgroundProcessor[StandardEngine[Catalina]]] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+[ContainerBackgroundProcessor[StandardEngine[Catalina]]] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[ContainerBackgroundProcessor[StandardEngine[Catalina]]] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[ContainerBackgroundProcessor[StandardEngine[Catalina]]] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[ContainerBackgroundProcessor[StandardEngine[Catalina]]] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[ContainerBackgroundProcessor[StandardEngine[Catalina]]] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via user class loader
+[ContainerBackgroundProcessor[StandardEngine[Catalina]]] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via TCCL
+[ContainerBackgroundProcessor[StandardEngine[Catalina]]] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[ContainerBackgroundProcessor[StandardEngine[Catalina]]] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - No META-INF/validation.xml found. Using annotation based configuration only.
+[localhost-startStop-1] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+[localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 5.4.1.Final
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via user class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via TCCL
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - No META-INF/validation.xml found. Using annotation based configuration only.
+[http-nio-8000-exec-2] INFO  controllers.RegistrationController  - going to main page
+[http-nio-8000-exec-3] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - userDhiviya is logging in
+[localhost-startStop-1] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+[localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 5.4.1.Final
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via user class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via TCCL
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - No META-INF/validation.xml found. Using annotation based configuration only.
+[http-nio-8000-exec-2] INFO  controllers.RegistrationController  - going to main page
+[http-nio-8000-exec-6] INFO  controllers.RegistrationController  - going to main page
+[http-nio-8000-exec-7] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-10] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-10] INFO  controllers.LoginController  - adminArun.dhiviyaelite logging in
+[http-nio-8000-exec-1] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-3] INFO  controllers.RegistrationController  - going to main page
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-5] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-5] INFO  controllers.LoginController  - userDhiviya is logging in
+[http-nio-8000-exec-7] INFO  controllers.LoginController  - DhiviyaEntering Welcome page
+[http-nio-8000-exec-7] INFO  controllers.RegistrationController  - Dhiviyasent for validation
+[http-nio-8000-exec-8] INFO  controllers.LoginController  - Dhiviya to view bill amount
+[http-nio-8000-exec-1] INFO  controllers.LoginController  - DhiviyaEntering Welcome page
+[http-nio-8000-exec-1] INFO  controllers.RegistrationController  - Dhiviyasent for validation
+[http-nio-8000-exec-2] INFO  controllers.LoginController  - Dhiviya to view bill amount
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-7] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-7] INFO  controllers.LoginController  - userVijay is logging in
+[http-nio-8000-exec-1] INFO  controllers.LoginController  - Vijaybooked room successfully
+[http-nio-8000-exec-2] INFO  controllers.LoginController  - VijayEntering Welcome page
+[http-nio-8000-exec-2] INFO  controllers.RegistrationController  - Vijaysent for validation
+[http-nio-8000-exec-3] INFO  controllers.LoginController  - Vijay to view bill amount
+[http-nio-8000-exec-7] INFO  controllers.LoginController  - Entering login page
+[localhost-startStop-1] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+[localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 5.4.1.Final
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver  - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl  - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via user class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via TCCL
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper  - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[localhost-startStop-1] DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser  - No META-INF/validation.xml found. Using annotation based configuration only.
+[http-nio-8000-exec-2] INFO  controllers.RegistrationController  - going to main page
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - Entering login page
+[http-nio-8000-exec-5] INFO  controllers.LoginController  - login validated
+[http-nio-8000-exec-5] INFO  controllers.LoginController  - userDhiviya is logging in
+[http-nio-8000-exec-6] INFO  controllers.LoginController  - DhiviyaEntering Welcome page
+[http-nio-8000-exec-6] INFO  controllers.RegistrationController  - Dhiviyasent for validation
+[http-nio-8000-exec-7] INFO  controllers.LoginController  - Dhiviya to view bill amount
+[http-nio-8000-exec-4] INFO  controllers.LoginController  - DhiviyaEntering Welcome page
+[http-nio-8000-exec-4] INFO  controllers.RegistrationController  - Dhiviyasent for validation
+[http-nio-8000-exec-5] INFO  controllers.LoginController  - Dhiviya to view bill amount
+[http-nio-8000-exec-8] INFO  controllers.LoginController  - DhiviyaEntering Welcome page
+[http-nio-8000-exec-8] INFO  controllers.RegistrationController  - Dhiviyasent for validation
+[http-nio-8000-exec-9] INFO  controllers.LoginController  - Dhiviya to view bill amount
+[http-nio-8000-exec-2] INFO  controllers.LoginController  - Dhiviya to view bill amount
+[http-nio-8000-exec-6] INFO  controllers.LoginController  - Entering login page
