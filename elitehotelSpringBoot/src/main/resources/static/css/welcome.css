@@ -1,0 +1,83 @@
+@charset "ISO-8859-1";
+body{
+	background: url(http://localhost:8001/media/bg2.jpg);
+	margin:0;
+	padding:0;
+	background-size:cover;
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+.boxer{
+	margin:auto;
+	text-align:center;
+	font-size:30px;
+	color:white;
+	
+}
+.head{
+	margin-top:70px;
+	color: #ffffff;
+	text-align:center;
+	font-size: 60px;
+	
+}
+.sub{
+	margin-top:30px;
+	color:#e69900;
+	text-align:center;
+	margin-bottom:50px;
+	font-size: 40px;
+}
+table{
+	 border: 1px solid white;
+	 width:60%;
+	 margin:auto;
+}
+ th{
+ padding:8px;
+ border: 1px solid white;
+ color:#e69900;
+ font-size: 20px;
+ 
+ } 
+ td {
+ padding:8px;
+ border: 1px solid white;
+ color: #ffffff;
+  font-size: 20px;
+  align-content:center;
+ }
+ .reg{
+	position:absolute;
+	color:#ffffff;
+	margin-left:30px;
+	margin-top:70px;
+	font-size: 30px;
+	
+}
+ button[type=submit] {
+	padding: 14px 20px;
+	width: 25%;
+	cursor: pointer;
+	font-size: 20px;
+	color: white;
+	border-radius: 4px;
+	 border: none;
+	 background-color:transparent;
+	  border: 2px solid white;
+	  margin-left:750px;
+	  margin-bottom:50px;
+	 
+}
+button[type=submit]:hover {
+  background-color: #e69900;
+}
+.reg{
+	position:absolute;
+	color:#ffffff;
+	margin-left:30px;
+	margin-top:20px;
+	font-size: 30px;
+	
+}
